@@ -104,7 +104,7 @@ I, Pradip Bhatt, am currently working as a Software Development Intern at CloudT
 
 For further information or inquiries, feel free to reach out:
 
-- **Email**: your.email@example.com
+- **Email**:pradip10@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/pradipbhatt1326/)
 
 ---
