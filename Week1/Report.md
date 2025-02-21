@@ -2,7 +2,7 @@
 
 ## Week: [Enter Week Number]
 
-**Date Range**: [Start Date] - [End Date]
+**Date Range**:Feb 21-27
 
 ---
 
