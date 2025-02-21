@@ -103,3 +103,4 @@ This project's copyright falls under CTS.
 - [Day 1 README](./Day1/Day1.md)
 - [Day 2 README](./Day2/Day2.md)
 - [Day 3 README](./Day3/Day3.md)
+- [Week 1 README](./Week1/Report.md)
