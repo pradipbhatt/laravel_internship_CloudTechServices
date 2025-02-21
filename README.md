@@ -2,8 +2,8 @@
 
 ## Internship Duration
 
-**Start Date**: February 20, 2025
-**End Date**: March 20, 2025
+**Start Date**: February 20, 2025  
+**End Date**: March 20, 2025  
 
 ---
 
@@ -52,49 +52,32 @@ I, Pradip Bhatt, am currently working as a Software Development Intern at CloudT
   - INT-I485 completion by February 26, 2025.
   - Ensure successful integration with the backend system.
 
-
----
-
-## Daily and Weekly Reports
-
-### Daily Reports
-
-#### February 20, 2025
-
-- **Tasks Completed**:
-  - Onboarding and environment setup.
-  - Reviewed project documentation and sprint details.
-- **Challenges**:
-  - Familiarizing with internal tools  Zoho.
-- **Learning**:
-  - Understood project management workflows and sprint planning.
-
----
-
-#### February 21, 2025
-
-- **Tasks Completed**:
-  - Started working on Week 1 PHP tasks.
-  - Participated in the first sprint  tasks.
-- **Challenges**:
-  - Had trouble with the backend setup on the local environment.
-- **Learning**:
-  - Improved debugging and local environment setup skills.
-
 ---
 
 ## Technologies Used
 
 - **Languages**: JavaScript, PHP, HTML/CSS
-- **Frameworks/Libraries**: Php,Laravel
+- **Frameworks/Libraries**: PHP, Laravel
 - **Tools**: Git, GitHub, VS Code
 - **Project Management**: Zoho
 
 ---
 
+## Prerequisites
+
+Before getting started, ensure you have the following installed and set up:
+
+- **PHP & Laravel**: Install the latest version of PHP and Laravel framework.
+- **Database**: MySQL or PostgreSQL setup.
+- **Version Control**: Git installed and configured.
+- **Code Editor**: Visual Studio Code or any preferred IDE.
+- **Project Management**: Access to Zoho for task tracking.(As per our company documentation)
+
+---
+
 ## Internship Goals
 
-- Gain practical experience with PHP and Laravel  development.
+- Gain practical experience with PHP and Laravel development.
 - Collaborate with a team of developers on real-world projects.
 - Learn best practices in CI/CD, project management, and software development workflows.
 
@@ -104,8 +87,8 @@ I, Pradip Bhatt, am currently working as a Software Development Intern at CloudT
 
 For further information or inquiries, feel free to reach out:
 
-- **Email**:pradip10@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/pradipbhatt1326/)
+- **Email**: pradip10@gmail.com  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/pradipbhatt1326/)  
 
 ---
 
