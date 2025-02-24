@@ -1,0 +1,95 @@
+Composer Theory:
+What is Composer?
+
+Composer is a tool for managing dependencies in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
+Why use Composer?
+
+It simplifies dependency management by ensuring that all necessary libraries are installed and that the project is up to date with the latest versions. It also handles autoloading of classes from the libraries.
+Composer.json
+
+The composer.json file is used to declare the dependencies for your project. It also includes metadata such as the project’s name, description, author, etc.
+Autoloading
+
+Composer provides an autoloader, which means you don't have to manually include files. Instead, you can just use composer install to load all your dependencies, and Composer takes care of loading the files automatically.
+Packages/Dependencies
+
+A "package" is a library or a tool you include in your project. Composer allows you to find, install, and manage these packages from the central repository, Packagist.
+Packagist
+
+This is the default repository where most PHP packages are hosted. When you require a package, Composer fetches it from Packagist or any other repository you define.
+
+
+
+
+install the composer using this commands
+
+curl -sS https://getcomposer.org/installer | php
+mv composer.phar /usr/local/bin/composer
+
+verify the installation using the > composer --version
+
+
+now let's init the composer project using the command >composer init
+
+after insatlling the composer install the pakages using > composer install
+
+we can install the aditional pakages using this > composer require guzzlehttp/guzzle
+
+if we want to update our pakges to the latest we may use > composer update
+
+
+let's create a project using the composer then goto that folder using cd
+
+then create the index.php and then run project using > php index.php
+
+
+
+
+
+
+
+
+
+Why Use Composer?
+Dependency Management:
+
+Composer allows you to easily manage third-party libraries and dependencies in PHP projects. It automatically downloads and installs packages, so you don't have to manually download or manage them.
+Simplifies Library Installation:
+
+Instead of downloading ZIP files or manually handling library versions, Composer automatically handles all the installation, ensuring that the correct version of each dependency is installed.
+Version Control:
+
+Composer helps maintain specific versions of libraries through the composer.json and composer.lock files. This ensures consistent versions across all environments and team members, preventing version conflicts.
+Autoloading:
+
+Composer generates an autoloader (vendor/autoload.php) that automatically loads PHP classes, saving time and effort for developers. You don't need to worry about manually including class files.
+Central Repository (Packagist):
+
+Composer connects to Packagist, a central repository of PHP packages, making it easy to find and use libraries without searching around for them.
+Efficient Updates:
+
+Composer allows for easy updates of libraries using the composer update command, ensuring that your project always uses the latest compatible versions of libraries.
+Project Configuration with composer.json:
+
+Composer allows you to define project metadata, dependencies, and autoloading rules in the composer.json file, which can be version-controlled and shared with other developers working on the project.
+Better Collaboration:
+
+When working in a team, Composer ensures that everyone is using the same dependencies and versions, reducing "works on my machine" issues.
+Global Tool Installation:
+
+Composer enables installing tools like PHPUnit, PHP_CodeSniffer, and other command-line utilities globally, so they can be used across all your PHP projects.
+Custom Repositories:
+
+Composer allows you to configure custom repositories, making it possible to manage private packages or internal libraries securely.
+Scripts and Automation:
+
+Composer supports running custom scripts during different phases of the lifecycle, such as after installation or update, allowing you to automate common tasks like tests, deployment, or code quality checks.
+Improved Code Quality:
+
+By using well-maintained and widely used packages, Composer helps improve the quality of your project by leveraging tested and community-reviewed libraries.
+Compatibility Checks:
+
+Composer ensures that your project's dependencies are compatible with each other, reducing the risk of running into conflicts or bugs caused by incompatible versions.
+PHP Framework Support:
+
+Composer is a core tool in modern PHP frameworks (like Laravel, Symfony), as it helps manage all the framework dependencies and packages.
